@@ -1,4 +1,6 @@
-# XOR Persistence of Vision Video Effect
+# Hermitnoise
+
+## A XOR Persistence of Vision Video Effect
 
 A Python tool that applies the mesmerizing XOR persistence of vision effect to videos. Shapes are only visible while they're moving—pause the video and they disappear into noise!
 
