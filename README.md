@@ -15,7 +15,7 @@ This effect exploits how your brain perceives motion:
 4. **Noise Accumulation**: Static areas become random noise patterns
 5. **Motion Visibility**: Moving edges remain visible due to persistence of vision
 
-The result: you can clearly see shapes moving, but pause the video and there's no visible shape—just random dots!
+The result: you can clearly see shapes moving, but pause the video and there's no visible shape, you'll just see random dots!
 
 ## Installation
 
@@ -63,3 +63,4 @@ python xor_vision.py input_video.mp4 output.mp4 --invert
 - **Lower resolution**: Creates bigger, more retro pixels
 - **Higher line-width**: Makes edges more visible but adds more noise
 - **Invert mode**: More dramatic effect, closer to the original demo
+
