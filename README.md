@@ -3,7 +3,7 @@
 
 ## A XOR Persistence of Vision Video Effect
 
-A Python tool that applies the mesmerizing XOR persistence of vision effect to videos. Shapes are only visible while they're moving—pause the video and they disappear into noise!
+A Python tool that applies the mesmerizing XOR persistence of vision effect to videos. Shapes are only visible while they're moving. Pause the video and they disappear into noise!
 
 ## How It Works
 
@@ -63,4 +63,3 @@ python xor_vision.py input_video.mp4 output.mp4 --invert
 - **Lower resolution**: Creates bigger, more retro pixels
 - **Higher line-width**: Makes edges more visible but adds more noise
 - **Invert mode**: More dramatic effect, closer to the original demo
-
